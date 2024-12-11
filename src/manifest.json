@@ -1,0 +1,17 @@
+{
+    "name": "Movie App",
+    "short_name": "Movies",
+    "description": "Movie discovery app",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#10131B",
+    "theme_color": "#10131B",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+} 

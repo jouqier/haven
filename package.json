@@ -1,0 +1,23 @@
+{
+  "name": "my-mini-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "vercel-build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@material/material-color-utilities": "^0.3.0",
+    "@material/web": "^2.2.0"
+  },
+  "description": "",
+  "devDependencies": {
+    "vite": "^5.4.11"
+  }
+}
